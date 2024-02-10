@@ -7,8 +7,7 @@ TECNOLOGIAS UTILIZADAS:
 
 
 ACESSO AO JOGO:
-NÚMERO SECRETO.mp4
-README.md
+
 https://jogo-do-numero-secreto-iota-one.vercel.app/
 
-
+![image](https://github.com/stephanymdias/jogo-do-numero-secreto/assets/130869859/daf1c183-2580-43b1-84f5-48f73dd41a02)
