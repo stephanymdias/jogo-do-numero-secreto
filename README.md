@@ -9,3 +9,5 @@ TECNOLOGIAS ULTILIZADAS:
 ACESSO AO JOGO:
 
 https://jogo-do-numero-secreto-iota-one.vercel.app/
+
+JOGO DO NÚMERO SECRETO.mp4
